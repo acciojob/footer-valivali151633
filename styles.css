@@ -31,8 +31,12 @@
 }
 .link-boxes{
 	color:white;
+	
 	display:flex;
 	justify-content:space-around
+}
+.link-boxes p{
+	font-size:12px;
 }
 
 .bottom-details{
