@@ -1,1 +1,44 @@
 /* your code here */
+.content{
+	background-color:#000000;
+}
+.top{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	padding-inline:20px;
+	
+}
+.logo-details{
+	color:white;
+}
+.media-icons{
+	display:flex;
+	
+}
+.social_media{
+	display:flex;
+	margin:8px;
+	width:40px;
+	height:40px;
+	border-radius:50%;
+	background-color:white;
+	align-items:center;
+	justify-content:center;
+	
+	
+	
+}
+.link-boxes{
+	color:white;
+	display:flex;
+	justify-content:space-around
+}
+
+.bottom-details{
+	display:flex;
+	justify-content:space-between;
+	background:#2c303a;
+	color:#bcbec0;
+	padding-inline:20px;
+}
